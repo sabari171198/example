@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+    <title>Playing with howler js</title>
+    <script src="practise.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.4/howler.js"></script>
+</head>
+<body>
+    <div>
+      <center><input id="play" value="Play" type="button" onclick="player()"></input></center>  
+    </div>
+</body>
